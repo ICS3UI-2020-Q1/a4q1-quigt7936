@@ -13,6 +13,10 @@ public class Main {
     // delcare the number being said
     int outputNumber = 100;
     
+    // say start the countdown
+    System.out.println("Count Down:");
+
+    // print number
     // while the number -5 is more than the said number continue
     do {
       System.out.println(outputNumber);
